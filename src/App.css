@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+.App h1 {
+  color: white;
+}
+.btn {
+  padding: 7px;
+  color: white;
+  border: white solid 2px;
+  background-color: black;
+}
+
+.btn:hover {
+  cursor: pointer;
+  color: black;
+  color: white;
+  background-color: purple;
+}
+.grid {
+  width: 55%;
+  margin: 40px auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+p {
+  color: white;
+}
